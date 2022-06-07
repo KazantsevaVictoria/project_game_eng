@@ -1,4 +1,4 @@
-# Research of videogames’ market for online store
+# Research of videogames’ market for an online store
 In the upcoming project, our main task is to identify the factors which determine the sales of video games each year. Then, based on these factors, we will try to predict sales for the upcoming year. Our customer is the worldwide video games store and it provided us data on game sales for the past 35 years. The dataset includes the title of the game, the released platform, the year of release, the genre, the rating of critics and users, the age rating, and the number of sales around the world, divided by region.
 
 Our research will include the following steps:
